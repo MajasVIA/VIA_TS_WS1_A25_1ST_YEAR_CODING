@@ -1,0 +1,18 @@
+﻿# Ignore IDE and build files
+.idea/
+.vscode/
+*.iml
+*.class
+*.log
+*.tmp
+target/
+bin/
+build/
+out/
+*.jar
+*.war
+*.ear
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
